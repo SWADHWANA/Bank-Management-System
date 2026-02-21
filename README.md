@@ -7,7 +7,7 @@ Java + Hibernate based layered architecture project.
 - Maven
 - Hibernate
 - JPA
-- MySQL
+- PostgreSQL
 
 ## Architecture
 Entity → DAO → Service → Driver
