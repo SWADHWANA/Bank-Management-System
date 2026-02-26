@@ -55,10 +55,15 @@ It helped me transition from learning Core Java to building structured, database
 🗂️ Project Structure
    src/main/java
     ├── entity
+    
     ├── dao
+    
     ├── service
+    
     ├── util
+    
     └── main
+    
 ⚙️ How to Run
    
    1) Clone the repository
