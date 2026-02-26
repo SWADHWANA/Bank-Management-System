@@ -30,15 +30,15 @@ It helped me transition from learning Core Java to building structured, database
 
 🛠️ Tech Stack
 
-   Java (JSE)
+   -Java (JSE)
    
-   Hibernate ORM
+   -Hibernate ORM
    
-   PostgreSQL Database
+   -PostgreSQL Database
    
-   JDBC
+   -JDBC
    
-   Maven (Dependency Management)
+   -Maven (Dependency Management)
 
 🏗️ Architecture Overview
 
