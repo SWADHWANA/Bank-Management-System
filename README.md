@@ -31,13 +31,9 @@ It helped me transition from learning Core Java to building structured, database
 🛠️ Tech Stack
 
    - Java (JSE)
-   
    - Hibernate ORM
-   
    - PostgreSQL Database
-   
    - JDBC
-   
    - Maven (Dependency Management)
 
 🏗️ Architecture Overview
@@ -77,17 +73,11 @@ It helped me transition from learning Core Java to building structured, database
 
 📚 Key Learnings
 
-   Hibernate configuration and setup
-   
-   Entity mapping with annotations
-   
-   HQL (Hibernate Query Language)
-   
-   Session & Transaction management
-   
-   Implementation of CRUD operations
-   
-   Clean backend architecture design
+   - Hibernate configuration and setup
+   - Entity mapping with annotations
+   - Session & Transaction management
+   - Implementation of CRUD operations
+   - Clean backend architecture design
 
 🔮 Future Enhancements
 
